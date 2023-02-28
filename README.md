@@ -6,6 +6,9 @@ tags: ["Vulnerability Management"]
 categories: ["Cybersecurity"]
 ---
 
+![featured](https://user-images.githubusercontent.com/63926014/221760051-9124d932-13fd-4741-80cf-2752634a97aa.png)
+
+
 
 >> Tenable Nessus is probably the most common vulnerability scanner I've come across on security assessment engagements. Creating a lab is a great project idea because it allows you to test and evaluate the features of the vulnerability scanner in a controlled environment. This can be useful for learning how to use Nessus, testing configuration changes, and simulating scans against different types of devices and systems. By creating a lab, you can experiment with Nessus without the risk of affecting live production systems. Additionally, a Nessus lab can be a valuable resource for training and education, as it allows students and team members to practice using the tool and learn about different types of vulnerabilities and how to identify them.
 
