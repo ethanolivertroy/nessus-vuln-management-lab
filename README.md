@@ -1,4 +1,4 @@
-See https://github.com/ethanolivertroy/nessus-vuln-management-lab/wiki
+See [https://github.com/ethanolivertroy/nessus-vuln-management-lab/wiki](https://github.com/ethanolivertroy/nessus-vuln-management-lab/wiki/Nessus-Vulnerability-Management-Lab)
 
 ## Future Plans:
 - upload files for lab here
